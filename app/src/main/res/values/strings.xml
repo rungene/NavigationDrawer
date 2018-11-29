@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NavigationDrawer</string>
+    <string name="nav_message">Title</string>
+    <string name="nav_chat">Chat</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_inform">Inform</string>
+    <string name="nav_share">Share</string>
+    <string name="nav_send">Send</string>
+</resources>
